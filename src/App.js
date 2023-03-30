@@ -9,7 +9,7 @@ function App() {
     <>
       <Router>
         <Navbar />
-        {Home}
+        <Home />
       </Router>
     </>
   );

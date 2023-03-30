@@ -6,8 +6,7 @@
 }
 
 .home,
-.services,
-.aboutus {
+.services{
    display: flex;
    height: 90vh;
    align-items: center;
@@ -24,11 +23,11 @@
    font-size: 100px;
 }
 
-.aboutus {
-   /* background-image: url('/public/Images/building.jpeg'); */
+/* .aboutus {
+   background-image: url('/public/Images/building.jpeg');
    background-position: center;
    background-size: fill;
    background-repeat: no-repeat;
    color: #fff;
    font-size: 100px;
-}
+} */
